@@ -1,0 +1,61 @@
+
+/* Icon */
+
+#circle-outer {
+  height: 200px;
+  width: 200px;
+  background-color: red;
+  position: absolute;
+  margin-left: 200px;
+  border-radius: 50%;
+}
+
+#circle-inner {
+    background: url(../assets/marliese-streefland-2l0CWTpcChI-unsplash-small.jpg) center center;
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+    
+}
+
+.title {
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    font-size: 100px;
+    padding-bottom: 0px;
+}
+
+/*Nav bar */
+
+nav ul {
+    text-align: center;
+    font-size: 40px;
+}
+
+nav a:hover {
+    border-bottom: 1px solid;
+}
+
+nav li {
+    list-style-type: none;
+    display: inline-block;
+    font-family: 'Oswald', sans-serif;
+    padding: 0px 20px 0px 20px;
+}
+
+
+/* footer */
+
+footer ul {
+    text-align: center;
+}
+
+footer li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 0px 20px 0px 20px;
+    font-size: 150%;
+    padding: 10%;
+    margin-bottom: 0px;
+    height: 0px;
+}
