@@ -1,4 +1,3 @@
-
 /* Icon */
 
 #circle-outer {
@@ -18,12 +17,19 @@
     
 }
 
+header {
+    background-color: #272d2dff;
+    margin: 0;
+    padding: 0%;
+    color: #a3bbadff;
+}
+
 /* Title */
 
 .title {
     font-family: 'Lato', sans-serif;
     text-align: center;
-    font-size: 80px;
+    font-size: 60px;
     padding-bottom: 0px;
 }
 
@@ -31,7 +37,7 @@
 
 nav ul {
     text-align: center;
-    font-size: 40px;
+    font-size: 30px;
 }
 
 nav a:hover {
@@ -48,11 +54,12 @@ nav li {
     font-family: 'Oswald', sans-serif;
     padding: 0px 20px 0px 20px;
     text-decoration: none;
-    letter-spacing: 4px;
+    letter-spacing: 2px;
 }
 
 #menu li a {
     text-decoration: none;
+    color: #a3bbadff;
 }
 
 
@@ -61,26 +68,30 @@ nav li {
 #tagline {
     text-align: center;
     font-family: 'Lato', sans-serif;
-    background-color: green;
-    width: auto;
+    background-color: #272d2dff;
+    width: 100%;
+    padding: 0%;
     margin: 0 auto;
+    color: #a3bbadff;
 }
 
 #values {
     text-align: center;
     font-family: 'Oswald', sans-serif;
-    color: white;
 }
 
 #dogs-in-need {
-    background: url(../assets/medium.jpg) center center no-repeat;
-    max-height: 100%;
-    height: 300px;
+    width: 40%;
+    height: 100px;
+    margin: 5%;
+    display: inline-block;
 }
 
 #health {
-    background: url(../assets/raquel-pedrotti-hB-Vwbyxr9U-unsplash.jpg) center center no-repeat;
-    height: 300px;
+    width: 40%;
+    height: 100px;
+    margin: 5%;
+    display: inline-block;
 }
 
 
@@ -90,7 +101,8 @@ nav li {
     text-align: center;
     font-family: 'Lato', sans-serif;
     padding: 5%;
-    background-color: aqua;
+    background-color: #272d2dff;
+    color: #a3bbadff;
 }
 
 footer ul {
@@ -106,4 +118,8 @@ footer li {
     margin-bottom: 0px;
     margin-top: 0px;
     height: 0px;
+}
+
+footer li a {
+    color: #a3bbadff;
 }
