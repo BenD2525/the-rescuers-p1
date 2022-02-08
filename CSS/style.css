@@ -99,7 +99,7 @@ nav li {
     color: #a3bbadff;
 }
 
-#values {
+.middle-section {
     text-align: center;
     font-family: 'Oswald', sans-serif;
     background-color: white;
@@ -119,6 +119,22 @@ nav li {
     display: inline-block;
 }
 
+/* About Us */
+
+#history, #mission, #values {
+    width: 50%;
+    position: static;
+    border: solid 2px black;
+    display: inline-block;
+}
+
+#mission li {
+    list-style-type: none;
+}
+
+#values li {
+    list-style-type: none;
+}
 
 /* Footer */
 
