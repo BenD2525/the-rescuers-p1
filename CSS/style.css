@@ -1,3 +1,13 @@
+/* Coolor CSS HEX 
+--charleston-green: #272d2dff;
+--cambridge-blue: #a3bbadff;
+--copper-red: #d1603dff;
+--titanium-yellow: #f0e100ff;
+--bright-navy-blue: #2d7dd2ff;
+*/
+
+
+
 /* Icon */
 
 #circle-outer {
@@ -19,9 +29,13 @@
 
 header {
     background-color: #272d2dff;
-    margin: 0;
+    margin: 0 auto;
     padding: 0%;
     color: #a3bbadff;
+}
+
+body {
+    background-color: #272d2dff;
 }
 
 /* Title */
@@ -31,6 +45,7 @@ header {
     text-align: center;
     font-size: 60px;
     padding-bottom: 0px;
+    margin: 0 auto;
 }
 
 /*Nav bar */
@@ -41,11 +56,11 @@ nav ul {
 }
 
 nav a:hover {
-    border-bottom: 1px solid;
+    border-bottom: 1px solid #a3bbadff;
 }
 
 .active {
-    color: red;
+    color: white;
 }
 
 nav li {
@@ -62,6 +77,15 @@ nav li {
     color: #a3bbadff;
 }
 
+/* Home Images */
+
+.home-images {
+    float: left;
+    margin: 0%;
+    padding: 0%;
+    height: 50%;
+    width: 45%;
+}
 
 /* Tagline */
 
@@ -78,6 +102,7 @@ nav li {
 #values {
     text-align: center;
     font-family: 'Oswald', sans-serif;
+    background-color: white;
 }
 
 #dogs-in-need {
