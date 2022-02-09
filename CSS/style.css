@@ -146,12 +146,49 @@ nav li {
 .dogs {
     width: 50%;
     height: 400px;
+}
+
+.bio {
+    width: 50%;
+    height: 400px;
     background-color: red;
+    display: inline-block;
+    align-content: stretch;
+    justify-content: center;
+    align-items: center;
+    text-align: initial;
+}
+
+.bio h2 {
+    padding: 10px;
 }
 
 #rossi {
-    background: url(../assets/Rossi.jpg) center center no-repeat;
+    background: url(../assets/Rossi\ cropped.jpg) center center no-repeat;
     background-size: contain;   
+    display: inline-block;
+    float: left;
+}
+
+#dog-2 {
+    background: url(../assets/angel-luciano-LATYeZyw88c-unsplash.jpg) center center no-repeat;
+    background-size: contain;
+    display: inline-block;
+    float: left;
+}
+
+#dog-3 {
+    background: url(../assets/justin-veenema-NH1d0xX6Ldk-unsplash.jpg) center center no-repeat;
+    background-size: contain;
+    display: inline-block;
+    float: left;
+}
+
+#dog-4 {
+    background: url(../assets/victor-grabarczyk-2pbnDRhXc6Q-unsplash.jpg) center center no-repeat;
+    background-size: contain;
+    display: inline-block;
+    float: left;
 }
 
 /* Footer */
