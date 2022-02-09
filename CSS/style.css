@@ -136,6 +136,24 @@ nav li {
     list-style-type: none;
 }
 
+/* Map */
+
+#map {
+    width: 100%;
+}
+
+/* Dog Bios */
+.dogs {
+    width: 50%;
+    height: 400px;
+    background-color: red;
+}
+
+#rossi {
+    background: url(../assets/Rossi.jpg) center center no-repeat;
+    background-size: contain;   
+}
+
 /* Footer */
 
 .socials {
