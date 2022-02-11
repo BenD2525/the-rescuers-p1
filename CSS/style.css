@@ -59,7 +59,7 @@ nav a:hover {
     border-bottom: 1px solid #a3bbadff;
 }
 
-.active {
+#menu .active {
     color: white;
 }
 
@@ -189,6 +189,22 @@ nav li {
     background-size: contain;
     display: inline-block;
     float: left;
+}
+
+/* Form */
+
+#form {
+    height: 200px;
+    width: 50%;
+    display: inline-block;
+    padding: 50px;
+}
+
+/* Response Times */
+
+#response-times {
+    border: 1px solid #272d2dff;
+    display: inline-block;
 }
 
 /* Footer */
