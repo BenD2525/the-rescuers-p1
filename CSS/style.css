@@ -20,7 +20,7 @@
 }
 
 #circle-inner {
-    background: url(../assets/marliese-streefland-2l0CWTpcChI-unsplash-small.jpg) center center;
+    background: url(../assets/icon.jpg) center center;
     height: 100%;
     width: 100%;
     border-radius: 50%;
@@ -125,7 +125,6 @@ nav li {
 
 #history, #mission, #values {
     width: 50%;
-    border: solid 2px black;
     display: inline-flex;
     flex-direction: column;
     flex-wrap: wrap;
@@ -162,7 +161,6 @@ nav li {
 .bio {
     width: 50%;
     height: 400px;
-    background-color: red;
     display: inline-block;
     align-content: stretch;
     justify-content: center;
@@ -171,34 +169,34 @@ nav li {
 }
 
 .bio h2 {
-    padding: 10px;
+    padding-bottom: 10px;
 }
 
-#rossi {
-    background: url(../assets/Rossi\ cropped.jpg) center center no-repeat;
+#dog-1 {
+    background: url(../assets/rossi.jpg) center center no-repeat;
     background-size: contain;   
-    display: inline-block;
+    display: block;
     float: left;
 }
 
 #dog-2 {
-    background: url(../assets/angel-luciano-LATYeZyw88c-unsplash.jpg) center center no-repeat;
+    background: url(../assets/lucy.jpg) center center no-repeat;
     background-size: contain;
-    display: inline-block;
+    display: block;
     float: left;
 }
 
 #dog-3 {
-    background: url(../assets/justin-veenema-NH1d0xX6Ldk-unsplash.jpg) center center no-repeat;
+    background: url(../assets/bob.jpg) center center no-repeat;
     background-size: contain;
-    display: inline-block;
+    display: block;
     float: left;
 }
 
 #dog-4 {
-    background: url(../assets/victor-grabarczyk-2pbnDRhXc6Q-unsplash.jpg) center center no-repeat;
+    background: url(../assets/charlie.jpg) center center no-repeat;
     background-size: contain;
-    display: inline-block;
+    display: block;
     float: left;
 }
 
@@ -211,6 +209,10 @@ nav li {
     padding: 50px;
 }
 
+form, input {
+    text-align: center;
+}
+
 /* Response Times */
 
 #response-times {
@@ -218,12 +220,16 @@ nav li {
     display: inline-block;
 }
 
+#response {
+    padding-bottom: 5%;
+}
+
 /* Footer */
 
 .socials {
     text-align: center;
     font-family: 'Lato', sans-serif;
-    padding: 5%;
+    padding-bottom: 5%;
     background-color: #272d2dff;
     color: #a3bbadff;
 }
@@ -245,4 +251,78 @@ footer li {
 
 footer li a {
     color: #a3bbadff;
+}
+
+/* Medium Screen Media Query */
+
+@media screen and (max-width: 1370px){
+
+    footer li {
+        list-style-type: none;
+        display: inline-block;
+        padding: 50px 75px 0px 75px;
+        font-size: 150%;
+        margin-bottom: 0px;
+        margin-top: 0px;
+        height: 0px;
+    }
+
+    .home-images {
+        float: none;
+        margin: 0%;
+        padding: 0%;
+        height: 50%;
+        width: 55%;
+        display: inline-block;
+    }
+}
+
+/* Small Screen Media Queries */
+
+@media screen and (max-width: 1150px){
+
+    footer li {
+        list-style-type: none;
+        display: inline-block;
+        padding: 50px 50px 0px 50px;
+        font-size: 150%;
+        margin-bottom: 0px;
+        margin-top: 0px;
+        height: 0px;
+    }
+
+    #circle-outer {
+        height: 0px;
+        width: 0px;
+        position: absolute;
+        margin-left: 0px;
+        border-radius: 50%;
+      }
+      
+      #circle-inner {
+          background: url(../assets/marliese-streefland-2l0CWTpcChI-unsplash-small.jpg) center center;
+          height: 100%;
+          width: 100%;
+          border-radius: 50%;
+          
+      }
+}
+
+@media screen and (max-width: 1050px) {
+    #circle-outer {
+        height: 0px;
+        width: 0px;
+        background-color: red;
+        position: absolute;
+        margin-left: 0px;
+        border-radius: 50%;
+      }
+      
+      #circle-inner {
+          background: url(../assets/marliese-streefland-2l0CWTpcChI-unsplash-small.jpg) center center;
+          height: 100%;
+          width: 100%;
+          border-radius: 50%;
+          
+      }
 }
