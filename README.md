@@ -90,12 +90,15 @@ A separate page which allows the user to access advice and links with informatio
 
 ## Testing
 
+### Browser compatibility
+
+Google Chrome, Microsoft Edge and Mozilla Firefox all display content and images correctly and all links work as intended.
+
 ### Accessibility and SEO
 
 The site has been checked using Google Lighthouse, with a score of 100 for both Accessibility and SEO
 
 ![Lighthouse Screenshot](../the-rescuers-p1/assets/screenshots/lighthouse.PNG)
-
 
 ## Validator Testing
 
