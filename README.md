@@ -1,108 +1,132 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+The Rescuers
 
-Welcome BenD2525,
+The Rescuers is a fictional dog rehoming service based in London, UK. The service currently has 4 dogs, although more could be added in future. This website aims to both find a home for the dogs in need, and also educate prospective dog-adopters on the benefits of having a dog. The target audience for the website is anyone who would like to adopt a dog, and anyone who is interested in learning about the benefits of adopting a dog. To meet the needs of this target audience, the website contains information on the health benefits of owning a dog, as well as why rescuing a dog is important. The website also contains an 'about us' page which contains information regarding the charity's history, mission and values. There is a 'meet the dogs' page which serves to showcase pictures of the current dogs that need re-homing, as well as a bio on each one. Lastly, the website also has a 'contact us' page which a form to enquire about a certain dog, and some information on when the inbox for enquiries is monitored.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+RESPONSIVE MOCKUP
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+Features
+Below is a list of features which are included in this website:
 
-## Gitpod Reminders
+Existing Features
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+Header Icon
 
-`python3 -m http.server`
+This icon is located to the left of the nav bar at the top of every page. The icon serves as a continuous theme throughout the website, and allows the user to get a sense of what The Rescuers is all about. It is a memorable 'stamp' which shows a happy dog and signifies the purpose of the website.
 
-A blue button should appear to click: _Make Public_,
+ICON IMAGE
 
-Another blue button should appear to click: _Open Browser_.
+Navigation Bar
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+This is at the top of each page below the title. It has links to each other page in the website, and it is set up to highlight the active page in white text, to show the user which page they are on. When hovering over another option, the option will become underlined, as per standard website conventions. This features allows the user to easily navigate through the website, and know which page they are on.
 
-A blue button should appear to click: _Make Public_,
+NAV BAR IMAGE 
 
-Another blue button should appear to click: _Open Browser_.
+The Tagline
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+The tagline is located below the nav bar and serves to summarise the purpose of the website- 'A shelter specialised in matching dogs to humans'. This is present in the same position on every page of the website, to ensure that there is uniformity across all pages, and the user is clear as to the purpose of the website.
 
-To log into the Heroku toolbelt CLI:
+TAGLINE IMAGE
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+Dogs in Need section
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+The 'Dogs in Need' section allows the user to see information regarding why it is better to rehome a rescue dog, than to buy a puppy. There is also an icon of a dog which alludes to what the section is about. Next to the section, there is a picture of a dog, which ensures a consistent theme.
 
-------
+DOGS IN NEED IMAGE
 
-## Release History
+Health section
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+The section allows the user to see information regarding the health benefits of owning a dog. There is also an icon of a heart, and a picture of a field to the left of the section, ensuring a consistent theme of health and wellbeing.
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
+HEALTH IMAGE
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
+The Footer
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
+The footer section contains links to 4 forms of social media contained with their icons (Facebook/Twitter/Instagram/Youtube) as well as a message encouraging the user to explore the rehoming service further on Social Media. It also contains a copyright, along with the author's name and year.
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
+FOOTER IMAGE
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
+About Us page
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+This page serves to educate the user about the history, mission and values of the dog rehoming service. The history section provides a brief history of the service, and how they came to be. The mission section states a clear purpose for the service, with 3 key goals. The values section details the values that the service holds dear, and how they aim to act.
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+IMAGE OF ABOUT US 
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+Come and see us section
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+At the bottom of the About Us page, there is an iframe from Google maps, with a fictional location for the service. The location has been chosen because it is not specific to anyone's address, and a park would be a relatively realistic location for a dog-homing service, allowing for easy dog exercising.
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+IMAGE OF GOOGLE MAPS
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+Meet the Dogs page 
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+This page will allow the user to view and read about each of the 4 dogs which the service has available for rehoming. The section contains 4 images which have been re-sized to ensure uniformity. Next to each image is a bio for each dog, which provides some information about each dog.
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+MEET THE DOGS IMAGE
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+Contact us form
 
-------
+Located on contact-us.html, this form allows the user to input their first name, last name and email address in order to contact the service. There are 4 radio buttons which are mutually exclusive so that the service will know which dog the user is enquiring about. Each field is required, and if the user attempts to click the 'Contact Us' button to submit their information without filling out each field, they will receive a message asking them to fill in the necessary detail.
 
-## FAQ about the uptime script
+CONTACT US IMAGE
 
-**Why have you added this script?**
+Response times section
 
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
+Located on contact-us.html, this table allows the user to see the times that they can expect a response. Above the table, there is a sentence which provides rationale for the below times being provided.This ensures a better user experience, because their expectations of turnaround times are fully managed.
 
-**How will this affect me?**
+RESPONSE TIMES IMAGE
 
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
+Features Left to Implement
 
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
+Gallery- a separate page showing a gallery of dog pictures and videos
 
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
+Volunteering- a separate page which allows the user to access advice and links with information about how to fundraise or volunteer. This would include articles and links to different fundraising ideas.
 
-**So….?**
+Testing
 
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
 
-**Can I opt out?**
 
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
+Validator Testing
 
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
+HTML
+No errors were returned when passing through the official W3C validator
+CSS
+No errors were found when passing through the official (Jigsaw) validator
 
-**Anything more?**
+Unfixed Bugs
+You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed.
 
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
+Deployment
+This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub)
 
----
+The site was deployed to GitHub pages. The steps to deploy are as follows:
+In the GitHub repository, navigate to the Settings tab
+From the source section drop-down menu, select the Master Branch
+Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html
 
-Happy coding!
+Credits
+
+Content
+
+The code below in the Meta section of all .html files was taken from W3 schools: https://www.w3schools.com/tags/tag_meta.asp
+
+<meta name="description" content="Dog rehoming charity in London">
+<meta name="keywords" content="Dog, London, Rescue, Rescuers">
+<meta name="author" content="Ben Dawson">
+
+All icons (Social icons and icons on home.html) were taken from Font Awesome: https://fontawesome.com/
+All fonts were taken from Google Fonts: https://fonts.google.com/
+Color Scheme (Commented at the top of CSS file) was taken from: https://coolors.co/
+
+
+Media
+
+All photos were taken from the free, open-source website: https://unsplash.com/
+Credit for each picture is below:
+Bob- Justin Veenema
+Charlie- Victor Grabarczyk
+Dog- Pauline Loroy
+Field- Raquel Pedrotti
+Icon- Marliese Streefland
+Lucy- Angel Luciano
+Rossi- My personal Facebook (My old dog!)
