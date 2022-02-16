@@ -15,67 +15,68 @@ Below is a list of features which are included in this website:
 
 This icon is located to the left of the nav bar at the top of every page. The icon serves as a continuous theme throughout the website, and allows the user to get a sense of what The Rescuers is all about. It is a memorable 'stamp' which shows a happy dog and signifies the purpose of the website.
 
-ICON IMAGE
+![Header icon](../the-rescuers-p1/assets/screenshots/icon.PNG)
 
 ### Navigation Bar
 
 This is at the top of each page below the title. It has links to each other page in the website, and it is set up to highlight the active page in white text, to show the user which page they are on. When hovering over another option, the option will become underlined, as per standard website conventions. This features allows the user to easily navigate through the website, and know which page they are on.
 
-NAV BAR IMAGE 
+![Nav Bar image](../the-rescuers-p1/assets/screenshots/nav-bar.PNG)
 
 ### The Tagline
 
 The tagline is located below the nav bar and serves to summarise the purpose of the website- 'A shelter specialised in matching dogs to humans'. This is present in the same position on every page of the website, to ensure that there is uniformity across all pages, and the user is clear as to the purpose of the website.
 
-TAGLINE IMAGE
+![Tagline image](../the-rescuers-p1/assets/screenshots/tagline.PNG)
 
 ### Dogs in Need section
 
 The 'Dogs in Need' section allows the user to see information regarding why it is better to rehome a rescue dog, than to buy a puppy. There is also an icon of a dog which alludes to what the section is about. Next to the section, there is a picture of a dog, which ensures a consistent theme.
 
-DOGS IN NEED IMAGE
+![Dogs in Need Section](../the-rescuers-p1/assets/screenshots/dogs-in-need.PNG)
 
 ### Health section
 
 The section allows the user to see information regarding the health benefits of owning a dog. There is also an icon of a heart, and a picture of a field to the left of the section, ensuring a consistent theme of health and wellbeing.
 
-HEALTH IMAGE
+![Health section](../the-rescuers-p1/assets/screenshots/health.PNG)
 
 ### The Footer
 
 The footer section contains links to 4 forms of social media contained with their icons (Facebook/Twitter/Instagram/Youtube) as well as a message encouraging the user to explore the rehoming service further on Social Media. It also contains a copyright, along with the author's name and year.
 
-FOOTER IMAGE
+![Footer](../the-rescuers-p1/assets/screenshots/footer.PNG)
 
 ### About Us page
 
 This page serves to educate the user about the history, mission and values of the dog rehoming service. The history section provides a brief history of the service, and how they came to be. The mission section states a clear purpose for the service, with 3 key goals. The values section details the values that the service holds dear, and how they aim to act.
 
-IMAGE OF ABOUT US 
+![About Us section](../the-rescuers-p1/assets/screenshots/about-us.PNG)
 
 ### Come and see us section
 
 At the bottom of the About Us page, there is an iframe from Google maps, with a fictional location for the service. The location has been chosen because it is not specific to anyone's address, and a park would be a relatively realistic location for a dog-homing service, allowing for easy dog exercising.
 
-IMAGE OF GOOGLE MAPS
+![Come and See us section](../the-rescuers-p1/assets/screenshots/come-and-see-us.PNG)
 
 ### Meet the Dogs page 
 
 This page will allow the user to view and read about each of the 4 dogs which the service has available for rehoming. The section contains 4 images which have been re-sized to ensure uniformity. Next to each image is a bio for each dog, which provides some information about each dog.
 
-MEET THE DOGS IMAGE
+![Meet the dogs 1](../the-rescuers-p1/assets/screenshots/meet-the-dogs-1.PNG)
+![Meet the dogs 2](../the-rescuers-p1/assets/screenshots/meet-the-dogs-2.PNG)
 
 ### Contact us form
 
 Located on contact-us.html, this form allows the user to input their first name, last name and email address in order to contact the service. There are 4 radio buttons which are mutually exclusive so that the service will know which dog the user is enquiring about. Each field is required, and if the user attempts to click the 'Contact Us' button to submit their information without filling out each field, they will receive a message asking them to fill in the necessary detail.
 
-CONTACT US IMAGE
+![Contact Us](../the-rescuers-p1/assets/screenshots/contact-us.PNG)
 
 ### Response times section
 
 Located on contact-us.html, this table allows the user to see the times that they can expect a response. Above the table, there is a sentence which provides rationale for the below times being provided.This ensures a better user experience, because their expectations of turnaround times are fully managed.
 
-RESPONSE TIMES IMAGE
+![Response Times](../the-rescuers-p1/assets/screenshots/response-times.PNG)
 
 ## Features Left to Implement
 
