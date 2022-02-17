@@ -139,6 +139,11 @@ nav li {
 
 #mission li {
     list-style-type: none;
+    text-align: center;
+}
+
+#mission ul {
+    margin: 0 auto;
 }
 
 #values li {
@@ -227,6 +232,12 @@ form, input {
 
 #response {
     padding-bottom: 5%;
+}
+
+/* Thank you */
+
+#thankyou {
+    text-align: center;
 }
 
 /* Footer */

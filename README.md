@@ -78,6 +78,12 @@ Located on contact-us.html, this table allows the user to see the times that the
 
 ![Response Times](../the-rescuers-p1/assets/screenshots/response-times.PNG)
 
+### Thankyou
+
+This page serves to acknowledge that the user's enquiry has been received, and that the service will get back to the user shortly.
+
+![Thankyou page](../the-rescuers-p1/assets/screenshots/thankyou.PNG)
+
 ## Features Left to Implement
 
 ### Gallery 
@@ -111,12 +117,12 @@ No errors were found when passing through the official (Jigsaw) validator
 You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed.
 
 ## Deployment
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub)
 
-The site was deployed to GitHub pages. The steps to deploy are as follows:
-In the GitHub repository, navigate to the Settings tab
-From the source section drop-down menu, select the Master Branch
-Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+The site was created in GitPod and deployed to GitHub pages. The steps to deploy are as follows:
+From the GitHub repository, navigate to the Settings tab.
+Click 'Pages' under the 'Code and Automation' section.
+From the source section, ensure the branch is set to 'main'. 
+Once the main branch has been selected, and the message at the top changes to green, the site has been successfully deployed.
 
 The live link can be found here - [The Rescuers](https://bend2525.github.io/the-rescuers-p1/)
 
