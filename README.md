@@ -113,6 +113,12 @@ No errors were returned when passing through the official W3C validator
 ### CSS
 No errors were found when passing through the official (Jigsaw) validator
 
+![Home Page CSS check](../the-rescuers-p1/assets/screenshots/css-check-home.PNG)
+![About Us Page CSS check](../the-rescuers-p1/assets/screenshots/css-check-about-us.PNG)
+![Meet the Dogs Page CSS check](../the-rescuers-p1/assets/screenshots/css-check-meet-the-dogs.PNG)
+![Contact Us Page CSS check](../the-rescuers-p1/assets/screenshots/css-check-contact-us.PNG)
+![Thankyou Page CSS check](../the-rescuers-p1/assets/screenshots/css-check-thankyou.PNG)
+
 ## Unfixed Bugs
 There were no known bugs found during testing, all functionality worked as intended in all browsers.
 
