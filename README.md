@@ -98,7 +98,7 @@ A separate page which allows the user to access advice and links with informatio
 
 ### Browser compatibility
 
-Google Chrome, Microsoft Edge and Mozilla Firefox all display content and images correctly and all links work as intended. 
+Initial testing was done using Google Developer Tools while coding the project. Links, images, presentation and different screen sizes were all checked using this tool.
 
 When the website was deployed, I was able to check the site on mobile devices, and identified some bugs.
 
@@ -106,7 +106,15 @@ When the website was deployed, I was able to check the site on mobile devices, a
 * About us page- Mission contents weren't aligned
 * Home page- Pictures lacked margin
 
-These were all fixed with media queries.
+These were all fixed with the small screen media queries.
+
+Google Chrome, Microsoft Edge, Mozilla Firefox and Safari all display content and images correctly and all links work and open in new windows.
+
+The form correctly sends the user to the thankyou page once the data is submitted, and the form data validation works correctly.
+I attempted to submit without filling out each field, and was presented with a message to fill out the required data (First name, Last name, Email).
+When attempting to use a non-valid email address in the email field, the relevant error message appeared asking to use the correct format.
+
+This was tested on a laptop, PC, iPad, Iphone SE, Galaxy S8 and a Motorola G9. 
 
 ### Accessibility and SEO
 
@@ -118,24 +126,37 @@ The site has been checked using Google Lighthouse, with a score of 100 for both 
 
 ### HTML
 No errors were returned when passing through the official W3C validator
+
+![Home page HTML check](../the-rescuers-p1/assets/screenshots/html-check-home.PNG)
+![About us page HTML check](../the-rescuers-p1/assets/screenshots/html-check-about-us.PNG)
+![Meet the dogs page HTML check](../the-rescuers-p1/assets/screenshots/html-check-meet-the-dogs.PNG)
+![Contact us page HTML check](../the-rescuers-p1/assets/screenshots/html-check-contact-us.PNG)
+![Thankyou page HTML check](../the-rescuers-p1/assets/screenshots/html-check-thankyou.PNG)
+
 ### CSS
 No errors were found when passing through the official (Jigsaw) validator
 
-![Home Page CSS check](../the-rescuers-p1/assets/screenshots/css-check-home.PNG)
-![About Us Page CSS check](../the-rescuers-p1/assets/screenshots/css-check-about-us.PNG)
-![Meet the Dogs Page CSS check](../the-rescuers-p1/assets/screenshots/css-check-meet-the-dogs.PNG)
-![Contact Us Page CSS check](../the-rescuers-p1/assets/screenshots/css-check-contact-us.PNG)
-![Thankyou Page CSS check](../the-rescuers-p1/assets/screenshots/css-check-thankyou.PNG)
+![Home page CSS check](../the-rescuers-p1/assets/screenshots/css-check-home.PNG)
+![About us page CSS check](../the-rescuers-p1/assets/screenshots/css-check-about-us.PNG)
+![Meet the dogs page CSS check](../the-rescuers-p1/assets/screenshots/css-check-meet-the-dogs.PNG)
+![Contact us page CSS check](../the-rescuers-p1/assets/screenshots/css-check-contact-us.PNG)
+![Thankyou page CSS check](../the-rescuers-p1/assets/screenshots/css-check-thankyou.PNG)
 
 ## Unfixed Bugs
 There were no known bugs found during testing, all functionality worked as intended in all browsers.
 
 ## Deployment
 
-The site was created in GitPod and deployed to GitHub pages. The steps to deploy are as follows:
+The site was created in GitPod and deployed to GitHub pages. 
+
+The steps to deploy are as follows:
+
 From the GitHub repository, navigate to the Settings tab.
+
 Click 'Pages' under the 'Code and Automation' section.
+
 From the source section, ensure the branch is set to 'main'. 
+
 Once the main branch has been selected, and the message at the top changes to green, the site has been successfully deployed.
 
 The live link can be found here - [The Rescuers](https://bend2525.github.io/the-rescuers-p1/)
