@@ -156,6 +156,12 @@ nav li {
     display: contents;
 }
 
+iframe {
+    width: 100%;
+    height: 450px;
+    border: 0;
+}
+
 /* Map */
 
 #map {
