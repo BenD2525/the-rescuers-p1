@@ -98,7 +98,15 @@ A separate page which allows the user to access advice and links with informatio
 
 ### Browser compatibility
 
-Google Chrome, Microsoft Edge and Mozilla Firefox all display content and images correctly and all links work as intended.
+Google Chrome, Microsoft Edge and Mozilla Firefox all display content and images correctly and all links work as intended. 
+
+When the website was deployed, I was able to check the site on mobile devices, and identified some bugs.
+
+* Meet the dogs page- Images and bios were squashed together
+* About us page- Mission contents weren't aligned
+* Home page- Pictures lacked margin
+
+These were all fixed with media queries.
 
 ### Accessibility and SEO
 
