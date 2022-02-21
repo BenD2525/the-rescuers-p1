@@ -217,6 +217,15 @@ iframe {
     float: left;
 }
 
+/* Button */
+
+#button {
+    margin-bottom: 5px;
+    background-color: #272d2dff;
+    color: #a3bbadff;
+    border-radius: 10px;
+}
+
 /* Form */
 
 #form {
@@ -360,10 +369,14 @@ footer li a {
         margin-top: 10px;
     }
 
+    #dogs-in-need {
+        width: 80%;
+    }
+
     #health {
         height: auto;
         margin-bottom: auto;
-
+        width: 80%;
     }
 
     .dogs {
