@@ -252,7 +252,6 @@ form, input {
 .socials {
     text-align: center;
     font-family: 'Lato', sans-serif;
-    padding-bottom: 5%;
     background-color: #272d2dff;
     color: #a3bbadff;
 }
@@ -292,7 +291,7 @@ footer li a {
 
     .home-images {
         float: none;
-        margin: 0%;
+        margin-bottom: 10px;
         padding: 0%;
         height: 50%;
         width: 55%;
