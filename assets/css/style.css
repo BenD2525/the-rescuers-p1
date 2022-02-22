@@ -220,11 +220,12 @@ iframe {
 /* Back to the top link */
 
 #link {
-    margin-bottom: 5px;
-    background-color: #272d2dff;
-    color: #a3bbadff;
-    border: 1px solid;
-    border-radius: 10px;
+    color: #272d2dff;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex-direction: row;
 }
 
 /* Form */
