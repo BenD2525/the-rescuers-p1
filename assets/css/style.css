@@ -170,9 +170,23 @@ iframe {
 
 /* Dog Bios */
 
+.grid-outer {
+    display: grid;
+    align-content: center;
+    justify-content: start;
+    align-items: center;
+    justify-items: center;
+    row-gap: 10px;
+}
+
 .dogs {
     width: 50%;
     height: 400px;
+    display: grid;
+    align-content: center;
+    justify-content: start;
+    align-items: center;
+    justify-items: center;
 }
 
 .bio {
@@ -183,6 +197,10 @@ iframe {
     justify-content: center;
     align-items: center;
     text-align: initial;
+}
+
+.bio p {
+    padding: 10px;
 }
 
 .bio h2 {
