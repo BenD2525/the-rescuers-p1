@@ -191,12 +191,15 @@ iframe {
 
 .bio {
     width: 50%;
-    height: 400px;
-    display: inline-block;
-    align-content: stretch;
-    justify-content: center;
-    align-items: center;
+    height: 300px;
+    display: grid;
+    align-content: center;
+    align-items: start;
     text-align: initial;
+    justify-content: center;
+    justify-items: center;
+    border: solid 1px;
+    border-radius: 10px;
 }
 
 .bio p {
@@ -251,13 +254,19 @@ iframe {
 #form {
     height: 200px;
     width: 50%;
-    display: inline-block;
+    display: inline-grid;
     padding: 50px;
+    margin: 50px;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    background-color: #272d2dff;
+    color: #a3bbadff;
+    border-radius: 10px;
 }
 
-form, input {
-    text-align: center;
-}
+
 
 /* Response Times */
 
@@ -376,7 +385,14 @@ footer li a {
       }
 }
 
-/* Small Screen Media Query */
+/* Small Screen Media Queries */
+
+@media screen and (max-width:650px){
+    .bio {
+        border: none;
+        display: contents;
+    }
+}
 
 @media screen and (max-width: 450px){
 
