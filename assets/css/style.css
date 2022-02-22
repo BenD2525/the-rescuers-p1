@@ -11,14 +11,14 @@
 #circle-outer {
   height: 200px;
   width: 200px;
-  background-color: red;
+  background-color: #272d2dff;
   position: absolute;
   margin-left: 50px;
   border-radius: 50%;
 }
 
 #circle-inner {
-    background: url(../assets/images/icon.jpg) center center;
+    background: url(../images/icon.jpg) center center;
     height: 100%;
     width: 100%;
     border-radius: 50%;
@@ -190,28 +190,28 @@ iframe {
 }
 
 #dog-1 {
-    background: url(../assets/images/rossi.jpg) center center no-repeat;
+    background: url(../images/rossi.jpg) center center no-repeat;
     background-size: contain;   
     display: block;
     float: left;
 }
 
 #dog-2 {
-    background: url(../assets/images/lucy.jpg) center center no-repeat;
+    background: url(../images/lucy.jpg) center center no-repeat;
     background-size: contain;
     display: block;
     float: left;
 }
 
 #dog-3 {
-    background: url(../assets/images/bob.jpg) center center no-repeat;
+    background: url(../images/bob.jpg) center center no-repeat;
     background-size: contain;
     display: block;
     float: left;
 }
 
 #dog-4 {
-    background: url(../assets/images/charlie.jpg) center center no-repeat;
+    background: url(../images/charlie.jpg) center center no-repeat;
     background-size: contain;
     display: block;
     float: left;
