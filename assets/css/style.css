@@ -217,12 +217,13 @@ iframe {
     float: left;
 }
 
-/* Button */
+/* Back to the top link */
 
-#button {
+#link {
     margin-bottom: 5px;
     background-color: #272d2dff;
     color: #a3bbadff;
+    border: 1px solid;
     border-radius: 10px;
 }
 
