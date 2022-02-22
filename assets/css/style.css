@@ -266,7 +266,11 @@ iframe {
     border-radius: 10px;
 }
 
-
+#submit {
+    background-color: #a3bbadff;
+    color: #272d2dff;
+    border-radius: 10px;
+}
 
 /* Response Times */
 
