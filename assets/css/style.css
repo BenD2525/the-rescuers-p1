@@ -253,7 +253,7 @@ iframe {
 
 #form {
     height: 200px;
-    width: 50%;
+    width: auto;
     display: inline-grid;
     padding: 50px;
     margin: 50px;
@@ -336,8 +336,18 @@ footer li a {
         margin-bottom: 10px;
         padding: 0%;
         height: 50%;
-        width: 55%;
+        width: 60%;
         display: inline-block;
+        margin-top: 20px;
+    }
+
+    #dogs-in-need, #health {
+        padding-bottom: 20px;
+        width: 60%;
+    }
+
+    .bio {
+        width: 60%;
     }
 }
 
@@ -396,6 +406,10 @@ footer li a {
         border: none;
         display: contents;
     }
+
+    #form {
+        height: auto;
+    }
 }
 
 @media screen and (max-width: 450px){
@@ -424,4 +438,9 @@ footer li a {
         margin-top: 10px;
     }
 
+    .bio {
+        width: 80%;
+    }
+
 }
+
