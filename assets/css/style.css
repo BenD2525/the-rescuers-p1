@@ -77,17 +77,6 @@ nav li {
     color: #a3bbadff;
 }
 
-/* Home Images */
-
-.home-images {
-    float: none;
-    margin: 0%;
-    padding: 0%;
-    height: 50%;
-    width: 45%;
-    display: inline-block;
-}
-
 /* Tagline */
 
 #tagline {
@@ -123,6 +112,17 @@ nav li {
     margin: 5%;
     display: inline-block;
     margin-bottom: 150px;
+}
+
+/* Home Images */
+
+.home-images {
+    float: none;
+    margin-top: 20px;
+    padding: 0%;
+    height: auto;
+    width: 45%;
+    display: inline-block;
 }
 
 /* About Us */
@@ -280,7 +280,7 @@ iframe {
 }
 
 #response {
-    padding-bottom: 5%;
+    padding: 5%;
 }
 
 /* Thank you */
@@ -335,7 +335,6 @@ footer li a {
         float: none;
         margin-bottom: 10px;
         padding: 0%;
-        height: 50%;
         width: 60%;
         display: inline-block;
         margin-top: 20px;
@@ -344,6 +343,8 @@ footer li a {
     #dogs-in-need, #health {
         padding-bottom: 20px;
         width: 60%;
+        height: auto;
+        margin: auto;
     }
 
     .bio {
@@ -397,6 +398,10 @@ footer li a {
           border-radius: 50%;
           
       }
+
+      #history, #mission, #values {
+          width: 60%;
+      }
 }
 
 /* Small Screen Media Queries */
@@ -439,6 +444,10 @@ footer li a {
     }
 
     .bio {
+        width: 80%;
+    }
+
+    #history, #mission, #values {
         width: 80%;
     }
 
