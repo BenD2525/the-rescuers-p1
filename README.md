@@ -29,6 +29,64 @@ Animal Lover Goals
 * As an animal lover, I want to be able to easily see all the dogs available, see how I can get in touch and submit an inquiry.
 * As an animal lover, I want to be able to see the history of the service, and what their mission/values are.
 
+### Development
+
+When creating a functional, informative website, a developer must consider all planes of development. 
+
+Strategy
+
+This stage considers the potential users and their needs, as well as the objectives of the website.
+
+* Roles- Current users, New users, Animal lovers
+* Demographic- Any age, based in on near the UK
+* Psychographic: 
+
+People with a love of dogs
+
+People who are interested in learning more about the benefits of caring for a dog
+
+* Website objectives: 
+
+To allow the user to learn more about caring for a dog.
+
+To enable the user to inquire about a dog.
+
+To allow the user to learn more about the service. 
+
+### Scope
+
+Assessing the scope of a website is based on the information gathered from forumlating a strategy. Using the target audience and
+the established website goals, the website requirements were set out.
+
+Content Requirements:
+* A section which establishes the purpose of the website.
+* A section which allows the user to learn more about the background of the service, and where they are located.
+* A section which features and details the dogs that are available for rehoming.
+* A section which allows the user to submit an inquiry to the service and see when they might receive a reply.
+* A section which signifies that the inquiry has been received correctly.
+
+
+### Structure
+
+The requirements listed above were then organised and structured into 5 pages, 4 of which the user can select from the nav bar:
+
+* Home
+* About us
+* Meet the dogs
+* Contact us
+* Thankyou (Landing page after submission of a form- not accessible from the nav bar)
+
+### Skeleton
+
+A wireframe for the website was produced using a desktop version of Balsamiq in order to provide a clear image of what the website should look like.
+
+The link for Balsamiq is here: ![Balsamiq](https://www.balsamiq.com/)
+
+![HomePageWireframe](../the-rescuers-p1/assets/screenshots/home-balsamiq.png)
+![AboutUsWireframe](../the-rescuers-p1/assets/screenshots/about-us-balsamiq.png)
+![MeetTheDogsWireframe](../the-rescuers-p1/assets/screenshots/meet-the-dogs-balsamiq.png)
+![ContactUsWireframe](../the-rescuers-p1/assets/screenshots/contact-us-balsamiq.png)
+
 ## Features
 Below is a list of features which are included in this website:
 
