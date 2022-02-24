@@ -8,6 +8,27 @@ To meet the needs of this target audience, the website contains information on t
 
 ![Responsive Design Image](../the-rescuers-p1/assets/screenshots/responsive.PNG)
 
+## UX
+
+### User Stories
+
+Current User Goals
+
+* As a current user, I want to be able to easily navigate through the site and access the information I need.
+* As a current user, I want to easily find out how long it might take for the service to come back to me after submitting an inquiry.
+
+New User Goals
+
+* As a new user, I want to easily navigate the whole site.
+* As a new user, I want to see clearly what the site is about, and learn about the dogs who need rehoming.
+* As a new user, I want every section to be clear and unambiguous.
+* As a new user, I want to learn more about the benefits of caring for a dog.
+
+Animal Lover Goals
+
+* As an animal lover, I want to be able to easily see all the dogs available, see how I can get in touch and submit an inquiry.
+* As an animal lover, I want to be able to see the history of the service, and what their mission/values are.
+
 ## Features
 Below is a list of features which are included in this website:
 
