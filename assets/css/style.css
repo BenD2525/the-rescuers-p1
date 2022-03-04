@@ -257,7 +257,7 @@ iframe {
 /* Form */
 
 #form {
-    height: 200px;
+    height: auto;
     width: auto;
     display: inline-grid;
     padding: 50px;
@@ -277,6 +277,11 @@ iframe {
     color: #272d2dff;
     border-radius: 10px;
     font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+}
+
+#submit:hover {
+    background-color: white;
 }
 
 /* Response Times */
@@ -423,6 +428,8 @@ footer li a {
     #form {
         height: auto;
     }
+
+
 }
 
 @media screen and (max-width: 450px){
@@ -457,6 +464,11 @@ footer li a {
 
     #history, #mission, #values {
         width: 80%;
+    }
+
+    #form {
+        width: auto;
+        padding: 10px;
     }
 
 }
