@@ -135,10 +135,6 @@ nav li {
     align-content: center;
     justify-content: center;
     align-items: center;
-    background-color: #272d2dff;
-    color: #a3bbadff;
-    padding: 5px;
-    border-radius: 10px;
 }
 
 
@@ -429,10 +425,22 @@ footer li a {
         height: auto;
     }
 
-
 }
 
 @media screen and (max-width: 450px){
+
+    .title {
+        font-size: 40px;
+    }
+
+    nav ul {
+        font-size: 20px;
+        padding: 0px;
+    }
+
+    #tagline {
+        font-size: 10px;
+    }
 
     #dog-1, #dog-2, #dog-3, #dog-4 {
         display: inline-block;
