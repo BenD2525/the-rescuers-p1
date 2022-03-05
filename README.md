@@ -134,7 +134,7 @@ The section allows the user to see information regarding the health benefits of 
 
 The footer section contains links to 4 forms of social media contained with their icons (Facebook/Twitter/Instagram/Youtube) as well as a message encouraging the user to explore the rehoming service further on Social Media. It also contains a copyright, along with the author's name and year.
 
-![Footer](.https://github.com/BenD2525/the-rescuers-p1/blob/main/documentation/footer.PNG "Screenshot of Footer")
+![Footer](https://github.com/BenD2525/the-rescuers-p1/blob/main/documentation/footer.PNG "Screenshot of Footer")
 
 ## About Us page
 
