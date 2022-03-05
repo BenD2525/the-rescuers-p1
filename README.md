@@ -6,7 +6,7 @@ The service currently has 4 dogs, although more could be added in future. This w
 
 To meet the needs of this target audience, the website contains information on the health benefits of owning a dog, as well as why rescuing a dog is important. The website also contains an 'about us' page which contains information regarding the charity's history, mission and values. There is a 'meet the dogs' page which serves to showcase pictures of the current dogs that need re-homing, as well as a bio on each one. Lastly, the website also has a 'contact us' page with a form to enquire about a certain dog, and some information on when the inbox for enquiries is monitored.
 
-![Responsive Design Image](../the-rescuers-p1/assets/screenshots/responsive.PNG)
+![Responsive Design Image](https://github.com/BenD2525/the-rescuers-p1/blob/main/documentation/responsive.PNG "Am I responsive screenshot")
 
 # Languages
 
