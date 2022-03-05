@@ -186,7 +186,7 @@ A separate page which allows the user to access advice and links with informatio
 
 # Testing
 
-Details of testing undertaken can be found [here]()
+Details of testing undertaken can be found [here](https://github.com/BenD2525/the-rescuers-p1/blob/main/documentation/testing.md)
 
 # Unfixed Bugs
 
