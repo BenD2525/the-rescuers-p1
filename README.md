@@ -4,9 +4,16 @@ The Rescuers is a fictional dog rehoming service based in London, UK.
 
 The service currently has 4 dogs, although more could be added in future. This website aims to both find a home for the dogs in need, and also educate prospective dog-adopters on the benefits of having a dog. The target audience for the website is anyone who would like to adopt a dog, and anyone who is interested in learning about the benefits of adopting a dog. 
 
-To meet the needs of this target audience, the website contains information on the health benefits of owning a dog, as well as why rescuing a dog is important. The website also contains an 'about us' page which contains information regarding the charity's history, mission and values. There is a 'meet the dogs' page which serves to showcase pictures of the current dogs that need re-homing, as well as a bio on each one. Lastly, the website also has a 'contact us' page which a form to enquire about a certain dog, and some information on when the inbox for enquiries is monitored.
+To meet the needs of this target audience, the website contains information on the health benefits of owning a dog, as well as why rescuing a dog is important. The website also contains an 'about us' page which contains information regarding the charity's history, mission and values. There is a 'meet the dogs' page which serves to showcase pictures of the current dogs that need re-homing, as well as a bio on each one. Lastly, the website also has a 'contact us' page with a form to enquire about a certain dog, and some information on when the inbox for enquiries is monitored.
 
 ![Responsive Design Image](../the-rescuers-p1/assets/screenshots/responsive.PNG)
+
+## Languages
+
+This site was created using the below languages:
+
+* HTML
+* CSS
 
 ## UX
 
@@ -16,6 +23,8 @@ Current User Goals
 
 * As a current user, I want to be able to easily navigate through the site and access the information I need.
 * As a current user, I want to easily find out how long it might take for the service to come back to me after submitting an inquiry.
+* As a current user, I want to be able to get to know the dogs and learn about the service.
+* As a current user, I want to be able to access the service's social media platforms.
 
 New User Goals
 
@@ -195,9 +204,9 @@ When attempting to use a non-valid email address in the email field, the relevan
 
 This was tested on a laptop, PC, iPad, Iphone SE, Galaxy S8 and a Motorola G9. 
 
-### Accessibility and SEO
+### Accessibility
 
-The site has been checked using Google Lighthouse, with a score of 100 for both Accessibility and SEO
+The site has been checked using Google Lighthouse, with a score of 100 for accessibility.
 
 ![Lighthouse Screenshot](../the-rescuers-p1/assets/screenshots/lighthouse.PNG)
 
