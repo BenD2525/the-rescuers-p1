@@ -92,10 +92,10 @@ A wireframe for the website was produced using a desktop version of Balsamiq in 
 
 The link for Balsamiq is here: ![Balsamiq](https://www.balsamiq.com/)
 
-![HomePageWireframe](../the-rescuers-p1/assets/screenshots/home-balsamiq.png)
-![AboutUsWireframe](../the-rescuers-p1/assets/screenshots/about-us-balsamiq.png)
-![MeetTheDogsWireframe](../the-rescuers-p1/assets/screenshots/meet-the-dogs-balsamiq.png)
-![ContactUsWireframe](../the-rescuers-p1/assets/screenshots/contact-us-balsamiq.png)
+![HomePageWireframe](https://github.com/BenD2525/the-rescuers-p1/blob/main/documentation/home-balsamiq.png "Home Page Wireframe")
+![AboutUsWireframe](https://github.com/BenD2525/the-rescuers-p1/blob/main/documentation/about-us-balsamiq.png "About Us page Wireframe")
+![MeetTheDogsWireframe](https://github.com/BenD2525/the-rescuers-p1/blob/main/documentation/meet-the-dogs-balsamiq.png "Meet the Dogs page Wireframe")
+![ContactUsWireframe](https://github.com/BenD2525/the-rescuers-p1/blob/main/documentation/contact-us-balsamiq.png "Contact Us page Wireframe")
 
 # Features
 Below is a list of features which are included in this website:
@@ -104,56 +104,58 @@ Below is a list of features which are included in this website:
 
 This icon is located to the left of the nav bar at the top of every page. The icon serves as a continuous theme throughout the website, and allows the user to get a sense of what The Rescuers is all about. It is a memorable 'stamp' which shows a happy dog and signifies the purpose of the website.
 
-![Header icon](../the-rescuers-p1/assets/screenshots/icon.PNG)
+![Header icon](https://github.com/BenD2525/the-rescuers-p1/blob/main/documentation/icon.PNG "Screenshot of Header icon")
 
 ## Navigation Bar
 
 This is at the top of each page below the title. It has links to each other page in the website, and it is set up to highlight the active page in white text, to show the user which page they are on. When hovering over another option, the option will become underlined, as per standard website conventions. This features allows the user to easily navigate through the website, and know which page they are on.
 
-![Nav Bar image](../the-rescuers-p1/assets/screenshots/nav-bar.PNG)
+![Nav bar image](https://github.com/BenD2525/the-rescuers-p1/blob/main/documentation/nav-bar.PNG "Screenshot of Nav bar")
 
 ## The Tagline
 
 The tagline is located below the nav bar and serves to summarise the purpose of the website- 'A shelter specialised in matching dogs to humans'. This is present in the same position on every page of the website, to ensure that there is uniformity across all pages, and the user is clear as to the purpose of the website.
 
-![Tagline image](../the-rescuers-p1/assets/screenshots/tagline.PNG)
+![Tagline image](https://github.com/BenD2525/the-rescuers-p1/blob/main/documentation/tagline.PNG "Screenshot of tagline")
 
 ## Dogs in Need section
 
 The 'Dogs in Need' section allows the user to see information regarding why it is better to rehome a rescue dog, than to buy a puppy. There is also an icon of a dog which alludes to what the section is about. Next to the section, there is a picture of a dog, which ensures a consistent theme.
 
-![Dogs in Need Section](../the-rescuers-p1/assets/screenshots/dogs-in-need.PNG)
+![Dogs in Need Section](https://github.com/BenD2525/the-rescuers-p1/blob/main/documentation/dogs-in-need.PNG"Screenshot of Dogs in Need section")
 
 ## Health section
 
 The section allows the user to see information regarding the health benefits of owning a dog. There is also an icon of a heart, and a picture of a field to the left of the section, ensuring a consistent theme of health and wellbeing.
 
-![Health section](../the-rescuers-p1/assets/screenshots/health.PNG)
+![Health section](https://github.com/BenD2525/the-rescuers-p1/blob/main/documentation/health.PNG "Screenshot of Health section")
 
 ## The Footer
 
 The footer section contains links to 4 forms of social media contained with their icons (Facebook/Twitter/Instagram/Youtube) as well as a message encouraging the user to explore the rehoming service further on Social Media. It also contains a copyright, along with the author's name and year.
 
-![Footer](../the-rescuers-p1/assets/screenshots/footer.PNG)
+![Footer](.https://github.com/BenD2525/the-rescuers-p1/blob/main/documentation/footer.PNG "Screenshot of Footer")
 
 ## About Us page
 
 This page serves to educate the user about the history, mission and values of the dog rehoming service. The history section provides a brief history of the service, and how they came to be. The mission section states a clear purpose for the service, with 3 key goals. The values section details the values that the service holds dear, and how they aim to act.
 
-![About Us section](../the-rescuers-p1/assets/screenshots/about-us.PNG)
+![About Us section](https://github.com/BenD2525/the-rescuers-p1/blob/main/documentation/about-us.PNG "Screenshot of About Us section")
 
 ## Come and see us section
 
 At the bottom of the About Us page, there is an iframe from Google maps, with a fictional location for the service. The location has been chosen because it is not specific to anyone's address, and a park would be a relatively realistic location for a dog-homing service, allowing for easy dog exercising.
 
-![Come and See us section](../the-rescuers-p1/assets/screenshots/come-and-see-us.PNG)
+![Come and See us section](https://github.com/BenD2525/the-rescuers-p1/blob/main/documentation/come-and-see-us.PNG "Screenshot of Come and see us section")
 
 ## Meet the Dogs page 
 
 This page will allow the user to view and read about each of the 4 dogs which the service has available for rehoming. The section contains 4 images which have been re-sized to ensure uniformity. Next to each image is a bio for each dog, which provides some information about each dog.
 
-![Meet the dogs 1](../the-rescuers-p1/assets/screenshots/meet-the-dogs-1.PNG)
-![Meet the dogs 2](../the-rescuers-p1/assets/screenshots/meet-the-dogs-2.PNG)
+![Meet the dogs 1](../the-rescuers-p1/assets/screenshots/meet-the-dogs-1.PNG "First Screenshot of meet the dogs page")
+![Meet the dogs 2](../the-rescuers-p1/assets/screenshots/meet-the-dogs-2.PNG "Second Screenshot of meet the dogs page")
+![Meet the dogs 3](../the-rescuers-p1/assets/screenshots/meet-the-dogs-1.PNG "Third Screenshot of meet the dogs page")
+![Meet the dogs 4](../the-rescuers-p1/assets/screenshots/meet-the-dogs-2.PNG "Fourth Screenshot of meet the dogs page")
 
 ## Contact us form
 
