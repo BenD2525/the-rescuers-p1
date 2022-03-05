@@ -90,7 +90,7 @@ The requirements listed above were then organised and structured into 5 pages, 4
 
 A wireframe for the website was produced using a desktop version of Balsamiq in order to provide a clear image of what the website should look like.
 
-The link for Balsamiq is here: ![Balsamiq](https://www.balsamiq.com/)
+The link for Balsamiq is here: [Balsamiq](https://www.balsamiq.com/)
 
 ![HomePageWireframe](https://github.com/BenD2525/the-rescuers-p1/blob/main/documentation/home-balsamiq.png "Home Page Wireframe")
 ![AboutUsWireframe](https://github.com/BenD2525/the-rescuers-p1/blob/main/documentation/about-us-balsamiq.png "About Us page Wireframe")
@@ -122,7 +122,7 @@ The tagline is located below the nav bar and serves to summarise the purpose of 
 
 The 'Dogs in Need' section allows the user to see information regarding why it is better to rehome a rescue dog, than to buy a puppy. There is also an icon of a dog which alludes to what the section is about. Next to the section, there is a picture of a dog, which ensures a consistent theme.
 
-![Dogs in Need Section](https://github.com/BenD2525/the-rescuers-p1/blob/main/documentation/dogs-in-need.PNG"Screenshot of Dogs in Need section")
+![Dogs in Need Section](https://github.com/BenD2525/the-rescuers-p1/blob/main/documentation/dogs-in-need.PNG "Screenshot of Dogs in Need section")
 
 ## Health section
 
@@ -152,28 +152,28 @@ At the bottom of the About Us page, there is an iframe from Google maps, with a 
 
 This page will allow the user to view and read about each of the 4 dogs which the service has available for rehoming. The section contains 4 images which have been re-sized to ensure uniformity. Next to each image is a bio for each dog, which provides some information about each dog.
 
-![Meet the dogs 1](../the-rescuers-p1/assets/screenshots/meet-the-dogs-1.PNG "First Screenshot of meet the dogs page")
-![Meet the dogs 2](../the-rescuers-p1/assets/screenshots/meet-the-dogs-2.PNG "Second Screenshot of meet the dogs page")
-![Meet the dogs 3](../the-rescuers-p1/assets/screenshots/meet-the-dogs-1.PNG "Third Screenshot of meet the dogs page")
-![Meet the dogs 4](../the-rescuers-p1/assets/screenshots/meet-the-dogs-2.PNG "Fourth Screenshot of meet the dogs page")
+![Meet the dogs 1](https://github.com/BenD2525/the-rescuers-p1/blob/main/documentation/meet-the-dogs-1.PNG "First Screenshot of meet the dogs page")
+![Meet the dogs 2](https://github.com/BenD2525/the-rescuers-p1/blob/main/documentation/meet-the-dogs-2.PNG "Second Screenshot of meet the dogs page")
+![Meet the dogs 3](https://github.com/BenD2525/the-rescuers-p1/blob/main/documentation/meet-the-dogs-3.PNG "Third Screenshot of meet the dogs page")
+![Meet the dogs 4](https://github.com/BenD2525/the-rescuers-p1/blob/main/documentation/meet-the-dogs-4.PNG "Fourth Screenshot of meet the dogs page")
 
 ## Contact us form
 
 Located on contact-us.html, this form allows the user to input their first name, last name and email address in order to contact the service. There are 4 radio buttons which are mutually exclusive so that the service will know which dog the user is enquiring about. Each field is required, and if the user attempts to click the 'Contact Us' button to submit their information without filling out each field, they will receive a message asking them to fill in the necessary detail.
 
-![Contact Us](../the-rescuers-p1/assets/screenshots/contact-us.PNG)
+![Contact Us](https://github.com/BenD2525/the-rescuers-p1/blob/main/documentation/contact-us.PNG "Screenshot of Contact Us form")
 
 ## Response times section
 
 Located on contact-us.html, this table allows the user to see the times that they can expect a response. Above the table, there is a sentence which provides rationale for the below times being provided.This ensures a better user experience, because their expectations of turnaround times are fully managed.
 
-![Response Times](../the-rescuers-p1/assets/screenshots/response-times.PNG)
+![Response Times](https://github.com/BenD2525/the-rescuers-p1/blob/main/documentation/response-times.PNG "Screenshot of Response Times table")
 
 ## Thankyou
 
 This page serves to acknowledge that the user's enquiry has been received, and that the service will get back to the user shortly.
 
-![Thankyou page](../the-rescuers-p1/assets/screenshots/thankyou.PNG)
+![Thankyou page](https://github.com/BenD2525/the-rescuers-p1/blob/main/documentation/thankyou.PNG "Screenshot of thankyou message")
 
 # Features Left to Implement
 
@@ -211,27 +211,27 @@ This was tested on a laptop, PC, iPad, Iphone SE, Galaxy S8 and a Motorola G9.
 
 The site has been checked using Google Lighthouse, with a score of 100 for accessibility.
 
-![Lighthouse Screenshot](../the-rescuers-p1/assets/screenshots/lighthouse.PNG)
+![Lighthouse Screenshot](https://github.com/BenD2525/the-rescuers-p1/blob/main/documentation/lighthouse.PNG "Screenshot of lighthouse check")
 
 # Validator Testing
 
 ## HTML
 No errors were returned when passing through the official W3C validator
 
-![Home page HTML check](../the-rescuers-p1/assets/screenshots/html-check-home.PNG)
-![About us page HTML check](../the-rescuers-p1/assets/screenshots/html-check-about-us.PNG)
-![Meet the dogs page HTML check](../the-rescuers-p1/assets/screenshots/html-check-meet-the-dogs.PNG)
-![Contact us page HTML check](../the-rescuers-p1/assets/screenshots/html-check-contact-us.PNG)
-![Thankyou page HTML check](../the-rescuers-p1/assets/screenshots/html-check-thankyou.PNG)
+![Home page HTML check](https://github.com/BenD2525/the-rescuers-p1/blob/main/documentation/html-check-home.PNG "Screenshot of Home page HTML check")
+![About us page HTML check](https://github.com/BenD2525/the-rescuers-p1/blob/main/documentation/html-check-about-us.PNG "Screenshot of About Us page HTML check")
+![Meet the dogs page HTML check](https://github.com/BenD2525/the-rescuers-p1/blob/main/documentation/html-check-meet-the-dogs.PNG "Screenshot of Meet the Dogs page HTML check")
+![Contact us page HTML check](https://github.com/BenD2525/the-rescuers-p1/blob/main/documentation/html-check-contact-us.PNG "Screenshot of Contact Us page HTML check")
+![Thankyou page HTML check](https://github.com/BenD2525/the-rescuers-p1/blob/main/documentation/html-check-thankyou.PNG "Screenshot of Thankyou page HTML check")
 
 ## CSS
 No errors were found when passing through the official (Jigsaw) validator
 
-![Home page CSS check](../the-rescuers-p1/assets/screenshots/css-check-home.PNG)
-![About us page CSS check](../the-rescuers-p1/assets/screenshots/css-check-about-us.PNG)
-![Meet the dogs page CSS check](../the-rescuers-p1/assets/screenshots/css-check-meet-the-dogs.PNG)
-![Contact us page CSS check](../the-rescuers-p1/assets/screenshots/css-check-contact-us.PNG)
-![Thankyou page CSS check](../the-rescuers-p1/assets/screenshots/css-check-thankyou.PNG)
+![Home page CSS check](https://github.com/BenD2525/the-rescuers-p1/blob/main/documentation/css-check-home.PNG "Screenshot of Home page CSS check")
+![About us page CSS check](https://github.com/BenD2525/the-rescuers-p1/blob/main/documentation/css-check-about-us.PNG "Screenshot of About Us page CSS check")
+![Meet the dogs page CSS check](https://github.com/BenD2525/the-rescuers-p1/blob/main/documentation/css-check-meet-the-dogs.PNG "Screenshot of Meet the Dogs page CSS check")
+![Contact us page CSS check](https://github.com/BenD2525/the-rescuers-p1/blob/main/documentation/css-check-contact-us.PNG "Screenshot of Contact Us page CSS check")
+![Thankyou page CSS check](https://github.com/BenD2525/the-rescuers-p1/blob/main/documentation/css-check-thankyou.PNG "Screenshot of Thankyou page CSS check")
 
 # Unfixed Bugs
 
